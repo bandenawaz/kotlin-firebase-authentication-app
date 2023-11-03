@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "857606347915",
+    "project_id": "fbauthapp-d0054",
+    "storage_bucket": "fbauthapp-d0054.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857606347915:android:1613c2f0528d7be6a5c88e",
+        "android_client_info": {
+          "package_name": "com.walmart.fbauthapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_eGG5A8HgHtROFxsn5FO4HuHQXcUfWPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
